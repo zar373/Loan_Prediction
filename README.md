@@ -29,6 +29,8 @@ Follow these steps to set up the project on your local machine:
 4. **Run Streamlit App:**
    ```bash
    streamlit run streamlit_app.py
-  
 
+💫*Deployed on: https://loanprediction-zar373.streamlit.app/*
+
+Happy Learning:)
 
